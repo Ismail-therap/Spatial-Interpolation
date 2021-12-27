@@ -1,2 +1,2 @@
-# Spatial_Kriging_Academic_Project_NMT
-In this project I did SK and OK on mining industry data to see the concentration of Silver under soil layers or in different depth.
+# Fall 2021 @NMT
+The projects are part of the graduate-level course MATH-586 : 	Spatial Variability & Geostats [Fall 2021 @ NMT] Course Instructor : Dr. Oleg Makhnin
